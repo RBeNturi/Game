@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#\Let'sPLay\obj\Debug\net6.0\Let'sPLay.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Let'sPLay\obj\Debug\net6.0\Let'sPLay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\Let'sPLay\obj\Debug\net6.0\Let'sPLay.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Let'sPLay\obj\Debug\net6.0\Let'sPLay.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Let'sPLay\obj\Debug\net6.0\Let'sPLay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Let'sPLay\bin\Debug\net6.0\Let'sPLay.exe
+C:\Users\Admin\Desktop\C#\Let'sPLay\bin\Debug\net6.0\Let'sPLay.deps.json
+C:\Users\Admin\Desktop\C#\Let'sPLay\bin\Debug\net6.0\Let'sPLay.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Let'sPLay\bin\Debug\net6.0\Let'sPLay.dll
+C:\Users\Admin\Desktop\C#\Let'sPLay\bin\Debug\net6.0\Let'sPLay.pdb
+C:\Users\Admin\Desktop\C#\Let'sPLay\obj\Debug\net6.0\Let'sPLay.dll
+C:\Users\Admin\Desktop\C#\Let'sPLay\obj\Debug\net6.0\refint\Let'sPLay.dll
+C:\Users\Admin\Desktop\C#\Let'sPLay\obj\Debug\net6.0\Let'sPLay.pdb
+C:\Users\Admin\Desktop\C#\Let'sPLay\obj\Debug\net6.0\Let'sPLay.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\Let'sPLay\obj\Debug\net6.0\ref\Let'sPLay.dll
